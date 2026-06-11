@@ -19,7 +19,7 @@ npm install -g @qwen-code/qwen-code@latest
 Or via the quick-install script:
 
 ```bash
-bash -c "$(curl -fsSL https://qwen-code-assets.oss-cn-hangzhou.aliyuncs.com/installation/install-qwen.sh)"
+curl -fsSL https://qwen-code-assets.oss-cn-hangzhou.aliyuncs.com/installation/install-qwen-standalone.sh | bash
 ```
 
 Or Homebrew:
